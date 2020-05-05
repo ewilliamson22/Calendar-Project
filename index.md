@@ -146,9 +146,12 @@ lectures. I probably did more work in these 10 days than I usually do.
 Ignoring sleep, I spent the most overall time on work, then on leisure
 (not including phone time), then on my phone. Tik tok overall time was
 not as high as I thought it would be, but it was a large proportion of
-my leisure time. I learned that I spend a huge amount of my leisure time
-on a screen, even though I thought that I spend a lot of time working
-out and going outside.
+my leisure time. My total time on it was 500 minutes, while I spent only
+150 minutes on Zoom lectures. If I included my field hockey meetings and
+TA hours in the Zoom category, that number might be a few hours higher.
+I learned that I spend a huge amount of my leisure time on a screen,
+even though I thought that I spend a lot of time working out and going
+outside.
 
 ![](./img/10.png)
 

@@ -175,5 +175,16 @@ The process was very informative and helped me become more comfortable
 with data wrangling and it was interesting to look so deeply into my
 quarantine days.
 
-    When giving my data to Google, my expectations are that I don’t want to overshare information because they see everything we give them, so in this project, I only wrote very short 1-2 word descriptions in my calendar input. Overall, in terms of giving my data to these apps, my expectations are the same-that they have total access to all our information and we have to be careful. 
-    As someone who analyzes other people’s data, our legal and ethical responsibilities include not doing anything with the data (like saving it or sending it out to people), not discussing what data points are specific people (this violates their privacy), and having consent from the organization to use and look at the data. It's also important that we don't violate these responsibilities or misuse the application when using Google, Facebook, etc.
+When giving my data to Google, my expectations are that I don’t want to
+overshare information because they see everything we give them, so in
+this project, I only wrote very short 1-2 word descriptions in my
+calendar input. Overall, in terms of giving my data to these apps, my
+expectations are the same-that they have total access to all our
+information and we have to be careful. As someone who analyzes other
+people’s data, our legal and ethical responsibilities include not doing
+anything with the data (like saving it or sending it out to people), not
+discussing what data points are specific people (this violates their
+privacy), and having consent from the organization to use and look at
+the data. It’s also important that we don’t violate these
+responsibilities or misuse the application when using Google, Facebook,
+etc.

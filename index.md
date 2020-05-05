@@ -33,6 +33,9 @@ that too.
 Results
 =======
 
+Leisure Time
+------------
+
 In terms of tracking my leisure time, I wanted to gain insight into how
 much time I was spending doing screen/non-screen activities. I first
 looked at my overall leisure time and how it was spent by filtering my
@@ -42,7 +45,8 @@ on these activities and saw that phone was considerably higher than all
 other activities, with TV right behind it. These numbers weren’t
 incredibly meaningful since they were total minutes over the 10 days,
 but they were able to show that I did spend the most leisure time on
-screen.
+screen. “Playing outside” means playing field hockey in my backyard-I
+just wanted the summaries to be as concise as possible.
 
 ![](./img/1.png)
 
@@ -57,18 +61,119 @@ do non-school related things. My screen time was highest on Sunday at
 550 minutes because it was the end of the week and I had no more work to
 do. This number in reality should probably be higher since I didn’t
 track every single time I picked up my phone, I only tracked “phone” if
-I was on it for an extensive amount of time. Alone time and time with
-others (in terms of leisure time) didn’t seem to have similar trends, or
-any trends at all. My alone time was highest on Saturday and Sunday,
-with 520 minutes on Sunday, which was interesting because I thought I
-would have more time with my family on those days. However, my time with
-other people was also higher, meaning my leisure time was just overall
-higher on the weekend. My graphs that showed proportions of how daily
-leisure time was spent show that my highest non-screen proportion of
-leisure time (55%) was on Thursday, and this was because I finished my
-Micro midterm and probably wanted to do other activities besides look at
-a screen. Surprisingly, my highest proportion of leisure time with
-people (80%) was on the first Monday, and this day was spent studying
-for Micro so I am not sure why I was with my family for so much time. I
-probably had less leisure time overall that day so the proportion became
-higher.
+I was on it for an extensive amount of time. My graphs that showed
+proportions of how daily leisure time was spent show that my highest
+non-screen proportion of leisure time (55%) was on Thursday, and this
+was because I finished my Micro midterm and probably wanted to do other
+activities besides look at a screen.
+
+![](./img/2.png) ![](./img/5.png)
+
+Alone time and time with others (in terms of leisure time) didn’t seem
+to have similar trends, or any trends at all. My alone time was highest
+on Saturday and Sunday, with 520 minutes on Sunday, which was
+interesting because I thought I would have more time with my family on
+those days. However, my time with other people was also higher, meaning
+my leisure time was just overall higher on the weekend. Surprisingly, my
+highest proportion of leisure time with people (80%) was on the first
+Monday, and this day was spent studying for Micro so I am not sure why I
+was with my family for so much time. I probably had less leisure time
+overall that day so the proportion became higher.
+
+![](./img/3.png)
+
+![](./img/4.png)
+
+Class Time
+----------
+
+Next, I wanted to look into how my time differed among each of my
+classes. My work for Greek Mythology class was sporadic and mostly just
+slight reading every so often so I decided to just track my time between
+Micro, Data Science, and Public Choice. I made pie charts showing
+proportions of work spent on each class each day which show that overall
+I spent the most time on Micro in the beginning of the week. On Monday
+Micro was 100% of the work and on Tuesday it was 75%. This is because I
+tend to watch my Micro lectures at the beginning of the week and I also
+had a midterm for it on Wednesday. Thus, later in the week I had 100%
+time spent on Data Science and 100% on Public Choice on Sunday since I
+didn’t have any more Micro work.
+
+![](./img/6.png)
+
+I then looked at the kind of work I did each day. My pie chart showing
+overall time spent on each category of work (pre-recorded lecture, zoom,
+work) over the 10 days shows that I spent the most time on work (55%),
+and only 7% on zoom. I only use zoom for Data Science and Micro once a
+week which is why it was the lowest. 100% of April 22 was lecture
+because my only class is a pre-recorded Public Choice lecture on
+Wednesday. Zoom was only on Thursday since that is when I have Data
+Science and Micro.
+
+![](./img/7.png)
+
+![](./img/8.png)
+
+Overall, I seemed to do the most work Monday-Thursday since I was
+studying most of the day for Micro. My total hours of work per day
+decreased during the weekend and then increased again on Monday.
+
+![](./img/11.png)
+
+Sleep vs. Work
+--------------
+
+Lastly, I looked at my sleep versus work done that day. I created a line
+graph graphing how many hours of sleep and work I had that day to
+visualize this. Overall, there wasn’t much of a connection. When I had
+the most sleep (9 hours) on Monday, I worked for 4.6 hours while on
+Tuesday I had 7 hours of sleep and worked for 6 hours. However, this
+information doesn’t convey the quality of my work, and my work time was
+also higher on Tuesday solely because I was trying to study for Micro.
+My sleep was also the highest (9 hours) on Saturday and I had the least
+amount of work (0.5 hours), but this was because it was the weekend and
+I slept in.
+
+![](./img/9.png)
+
+Overall, my findings can’t really be applied to the rest of my time in
+quarantine because I spent an excessive amount of time on Micro that
+week because I had a midterm and additionally had to watch very long
+lectures. I probably did more work in these 10 days than I usually do.
+Ignoring sleep, I spent the most overall time on work, then on leisure
+(not including phone time), then on my phone. Tik tok overall time was
+not as high as I thought it would be, but it was a large proportion of
+my leisure time. I learned that I spend a huge amount of my leisure time
+on a screen, even though I thought that I spend a lot of time working
+out and going outside.
+
+![](./img/10.png)
+
+This makes me want to increase my non-screen leisure time, and now that
+the weather is getting nicer I can.
+
+Overall, my data did show what I expect-my leisure time increased as the
+week went on and my work was highest at the beginning of the week. Sleep
+versus productivity is something that is hard to track so I didn’t find
+out much about the relationship. I also sometimes thrive off of no sleep
+so it is hard to reflect on that. I also found that I spent more of my
+leisure time alone as the week went on, but this could be because I go
+on my phone for more time when I don’t have work, or just because I have
+higher overall leisure time on the weekend.
+
+Reflection
+----------
+
+The overall process of wrangling the calendar data was interesting but
+definitely difficult at times. It wasn’t as much wrangling as the
+Clearinghouse Challenge, though my calendar summaries made it so I had
+to make a ton of new datasets and rename summaries to make them simpler.
+It was similar to the Clearinghouse Challenge in that I had to filter
+for summaries like we had to filter for college degrees, but it was
+definitely much easier to find my calendar summaries than the degrees.
+The process was very informative and helped me become more comfortable
+with data wrangling and it was interesting to look so deeply into my
+quarantine days.
+
+    When giving my data to Google, my expectations are that I don’t want to overshare information because they see everything we give them, so in this project, I only wrote very short 1-2 word descriptions in my calendar input. Overall, in terms of giving my data to these apps, my expectations are the same-that they have total access to all our information and we have to be careful. 
+    As someone who analyzes other people’s data, our legal and ethical responsibilities include not doing anything with the data (like saving it or sending it out to people), not discussing what data points are specific people (this violates their privacy), and having consent from the organization to use and look at the data. It's also important that we don't violate these responsibilities or misuse the application when using Google, Facebook, etc.

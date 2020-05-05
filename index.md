@@ -46,7 +46,10 @@ other activities, with TV right behind it. These numbers weren’t
 incredibly meaningful since they were total minutes over the 10 days,
 but they were able to show that I did spend the most leisure time on
 screen. “Playing outside” means playing field hockey in my backyard-I
-just wanted the summaries to be as concise as possible.
+just wanted the summaries to be as concise as possible. “Phone set up”
+was setting up my new phone-so another reason why my phone time was so
+high was because I just got a new phone (and didn’t have one for 7
+weeks).
 
 ![](./img/1.png)
 
@@ -96,8 +99,8 @@ I spent the most time on Micro in the beginning of the week. On Monday
 Micro was 100% of the work and on Tuesday it was 75%. This is because I
 tend to watch my Micro lectures at the beginning of the week and I also
 had a midterm for it on Wednesday. Thus, later in the week I had 100%
-time spent on Data Science and 100% on Public Choice on Sunday since I
-didn’t have any more Micro work.
+time spent on Data Science on Saturday and 100% on Public Choice on
+Sunday since I didn’t have any more Micro work due.
 
 ![](./img/6.png)
 
@@ -124,7 +127,7 @@ Sleep vs. Work
 --------------
 
 Lastly, I looked at my sleep versus work done that day. I created a line
-graph graphing how many hours of sleep and work I had that day to
+graph showing how many hours of sleep and work I had that day to
 visualize this. Overall, there wasn’t much of a connection. When I had
 the most sleep (9 hours) on Monday, I worked for 4.6 hours while on
 Tuesday I had 7 hours of sleep and worked for 6 hours. However, this
